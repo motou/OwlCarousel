@@ -1,0 +1,12 @@
+{
+  "name": "owlcarousel",
+  "homepage": "https://github.com/OwlFonk/OwlCarousel",
+  "_release": "eee6d6d927",
+  "_resolution": {
+    "type": "commit",
+    "commit": "eee6d6d927bb95e7a46cdb88b9c19d1e1092fba5"
+  },
+  "_source": "git://github.com/OwlFonk/OwlCarousel.git",
+  "_target": "eee6d6d927bb95e7a46cdb88b9c19d1e1092fba5",
+  "_originalSource": "git://github.com/OwlFonk/OwlCarousel"
+}
